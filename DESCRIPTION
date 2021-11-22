@@ -1,0 +1,12 @@
+Package: alignDE
+Type: Package
+Title: Peak alignment using wavelet pattern matching and differential evolution
+Version: 2.0.1
+Date: 2012-02-26
+Depends: R (>= 2.12.0), Matrix
+Suggests:
+Author: Zhi-Min Zhang,Yi-Zeng Liang,  Shan Chen
+Maintainer: Zhi-Min Zhang <zhangzhimin.csu@gmail.com>
+Description: Peak alignment using wavelet pattern matching and differential evolution
+License: LGPL version 2 or newer
+Packaged: Sun Feb 26 17:00:21 2012;
